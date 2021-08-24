@@ -311,23 +311,23 @@ include_graphics("img/workshop.jpg")
 
 --
 
-- Meet (Tuesdays at 8pm on Zoom)
+- `r fa("video", fill = "#782F40")` Meet (Tuesdays at 8pm on Zoom)
 
 --
 
-- Explore
+- `r fa("compass", fill = "#782F40")` Explore
 
 --
 
-- Read
+- `r fa("book-open", fill = "#782F40")` Read
 
 --
 
-- Discuss (Flipgrid)
+- `r fa("comments", fill = "#782F40")` Discuss (Flipgrid)
 
 --
 
-- Create
+- `r fa("user-edit", fill = "#782F40")` Create
 
 ---
 
