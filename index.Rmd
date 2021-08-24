@@ -311,7 +311,7 @@ include_graphics("img/workshop.jpg")
 
 --
 
-- Meet (Zoom)
+- Meet (Tuesdays at 8pm on Zoom)
 
 --
 
