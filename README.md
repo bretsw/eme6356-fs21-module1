@@ -1,2 +1,3 @@
-# dissertation-proposal
-Slide deck for my dissertation proposal defense
+# EME6356 Module 1
+
+Slide deck for EME6356, Module 1: Introduction to Analytics
